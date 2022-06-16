@@ -13,7 +13,7 @@ Merge Sort is a Divide and Conquer algorithm. It divides the input array into tw
 ## Time Complexity of Merge Sort
 Merge Sort is a recursive algorithm and time complexity can be expressed as following recurrence relation.
 
-- ***T(n) = 2T(n/2) + O(n)
+- ***T(n) = 2T(n/2) + O(n)***
 
 The solution of the above recurrence is O(nLogn). The list of size N is divided into a max of Logn parts, and the merging of all sublists into a single list takes O(N) time, the worst-case run time of this algorithm is O(nLogn)
 
