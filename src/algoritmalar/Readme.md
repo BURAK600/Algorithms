@@ -3,6 +3,6 @@
 Merge Sort is a Divide and Conquer algorithm. It divides the input array into two halves, calls itself for the two halves, and then it merges the two sorted halves. The merge() function is used for merging two halves. The merge(arr, l, m, r) is a key process that assumes that arr[l..m] and arr[m+1..r] are sorted and merges the two sorted sub-arrays into one. 
 
 ---
-![How Merge sort Works?] (https://www.mshowto.org/merge-sort-birlestirme-siralamasi-algoritmasi.html)
+![How Merge sort Works?](https://www.mshowto.org/images/articles/2021/09/sdsd-1.png)
 
 
