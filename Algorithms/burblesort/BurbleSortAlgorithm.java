@@ -1,5 +1,4 @@
-package algoritmalar;
-import java.io.*;
+package burblesort;
 
 public class BurbleSortAlgorithm {
 

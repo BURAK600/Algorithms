@@ -1,4 +1,4 @@
-package algoritmalar;
+package mergesort;
 
 public class MergeSortAlgorithm {
 
