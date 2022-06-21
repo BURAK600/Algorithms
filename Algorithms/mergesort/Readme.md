@@ -23,6 +23,6 @@ The solution of the above recurrence is O(nLogn). The list of size N is divided 
 
 - Average Time Complexity: O(n*log n)
 
-The time complexity of MergeSort is O(n*Log n) in all the 3 cases (worst, average and best) as the mergesort always divides the array into two halves and takes linear time to merge two halves.
+The time complexity of MergeSort is O(n*Log n) in all the 3 cases (worst, average and best) as the mergesort always divides the array into two halves and takes linear time to merge two halves..
 
 
