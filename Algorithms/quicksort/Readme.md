@@ -22,19 +22,19 @@ array and put all smaller elements (smaller than x) before x, and put all greate
 
 ## Time Complexity of Merge Sort
 
-- #### Worst case
+- ### Worst case
 The worst case in quicksort occurs when the partition gives a 1 : n-1 split every time. Graphically, this looks like:
 
 ![Quick Sort Worst Case](https://www.cs.dartmouth.edu/~thc/cs5-F96/quicksort_worse.gif)
 
-- #### Best case
+- ### Best case
 The best case occurs when we have an even split all the time. The tree looks exactly like the recursion tree that we got for merge sort:
 
 ![Quick Sort Average Case](https://www.cs.dartmouth.edu/~thc/cs5-F96/merge_tree.gif)
 
 And as you have probably guessed by now, the running time is the same, which is O(n log2 n)
 
-- #### Average case
+- ### Average case
 For the average case, I will use the graceful art of handwaving. Let's just say that most splits are not too far from even. 
 Given this, the analysis exceeds the scope of this course, but it turns out to be O(n log2 n).
 
