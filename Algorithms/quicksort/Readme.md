@@ -49,20 +49,6 @@ Given this, the analysis exceeds the scope of this course, but it turns out to b
 | Preferred for | for Arrays | for Linked Lists |
 | Locality of reference | Quicksort exhibits good cache locality and this makes quicksort faster than merge sort (in many cases like in virtual memory environment)| 	poor |
 | Additional storage space requirement | Merge sort is not in place because it requires additional memory space to store the auxiliary arrays. | The quick sort is in place as it doesn’t require any additional storage. |
-| Satır 4 Sütun 1 | Satır 4 Sütun 2 | Satır 4 Sütun 3 |
-| Satır 5 Sütun 1 | Satır 5 Sütun 2 | Satır 5 Sütun 3 |
-
----
-
-
- 
- 
- | Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-
 
 
 
