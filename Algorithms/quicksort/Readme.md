@@ -41,15 +41,15 @@ Given this, the analysis exceeds the scope of this course, but it turns out to b
 ---
 # Difference Between  Quicksort and Merge Sort
 
- | Basis for comparison| Quick Sort| Merge Sort |
+ |** _Basis for comparison_**|** _Quick Sort_ **| ** _Merge Sort_ ** |
 |----------|:-------------:|------:|
-| Worst case complexity| O(n2) | O(nlogn)|
-| Average case complexity |  O(nlogn) |  O(nlogn) |
-|Speed of execution | It work faster than other sorting algorithms for small data set  |It has a consistent speed on any size of data |
-| Efficiency| Inefficient for larger arrays | More efficient in case of larger array size or datasets|
-| Preferred for | for Arrays | for Linked Lists |
-| Locality of reference | Quicksort exhibits good cache locality and this makes quicksort faster than merge sort (in many cases like in virtual memory environment)| 	poor |
-| Additional storage space requirement | Merge sort is not in place because it requires additional memory space to store the auxiliary arrays. | The quick sort is in place as it doesn’t require any additional storage. |
+| **Worst case complexity**| O(n2) | O(nlogn)|
+| **Average case complexity** |  O(nlogn) |  O(nlogn) |
+|**Speed of execution** | It work faster than other sorting algorithms for small data set  |It has a consistent speed on any size of data |
+| **Efficiency**| Inefficient for larger arrays | More efficient in case of larger array size or datasets|
+| **Preferred for** | for Arrays | for Linked Lists |
+| **Locality of reference** | Quicksort exhibits good cache locality and this makes quicksort faster than merge sort (in many cases like in virtual memory environment)| 	poor |
+| **Additional storage space requirement** | Merge sort is not in place because it requires additional memory space to store the auxiliary arrays. | The quick sort is in place as it doesn’t require any additional storage. |
 
 
 
