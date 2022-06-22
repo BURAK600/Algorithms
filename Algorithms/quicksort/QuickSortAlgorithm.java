@@ -1,6 +1,4 @@
 package quicksort;
-
-
 // Java implementation of QuickSort
 import java.io.*;
 
@@ -90,4 +88,3 @@ class QuickSortAlgorithm{
     }
 }
 
-// This code is contributed by Ayush Choudhary
