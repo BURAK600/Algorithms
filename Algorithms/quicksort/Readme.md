@@ -16,7 +16,7 @@ The key process in quickSort is partition(). Target of partitions is, given an a
 array and put all smaller elements (smaller than x) before x, and put all greater elements (greater than x) after x. All this should be done in linear time.
 
 ## How Merge sort Works?
-![How Merge sort Works?](https://www.cct.lsu.edu/~sidhanti/tutorials/data_structures/img2145.gif)
+![How Merge sort Works?](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREFaohMg5k3Gts-UUlQ7tjjXvNGbYvtRM4i9hj_5CJkqMlK0TaDIwv8ADeMu_Ab80DZ4A&usqp=CAU)
 
 ---
 
@@ -49,6 +49,16 @@ Given this, the analysis exceeds the scope of this course, but it turns out to b
 | Preferred for | for Arrays | for Linked Lists |
 | Locality of reference | Quicksort exhibits good cache locality and this makes quicksort faster than merge sort (in many cases like in virtual memory environment)| 	poor |
 | Additional storage space requirement | Merge sort is not in place because it requires additional memory space to store the auxiliary arrays. | The quick sort is in place as it doesn’t require any additional storage. |
+| Satır 4 Sütun 1 | Satır 4 Sütun 2 | Satır 4 Sütun 3 |
+| Satır 5 Sütun 1 | Satır 5 Sütun 2 | Satır 5 Sütun 3 |
+
+---
+
+| Başlık1 | Başlık2 | Başlık3 |
+| —— | —— | —— |
+| Satır 1 Sütun 1 | Satır 1 Sütun 2 | Satır 1 Sütun 3 |
+| Satır 2 Sütun 1 | Satır 2 Sütun 2 | Satır 2 Sütun 3 |
+| Satır 3 Sütun 1 | Satır 3 Sütun 2 | Satır 3 Sütun 3 |
 | Satır 4 Sütun 1 | Satır 4 Sütun 2 | Satır 4 Sütun 3 |
 | Satır 5 Sütun 1 | Satır 5 Sütun 2 | Satır 5 Sütun 3 |
 
