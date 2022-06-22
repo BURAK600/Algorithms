@@ -66,6 +66,14 @@ Given this, the analysis exceeds the scope of this course, but it turns out to b
  | Satır 3 Sütun 1 | Satır 3 Sütun 2 | Satır 3 Sütun 3 |
  | Satır 4 Sütun 1 | Satır 4 Sütun 2 | Satır 4 Sütun 3 |
  | Satır 5 Sütun 1 | Satır 5 Sütun 2 | Satır 5 Sütun 3 |
+ 
+ 
+ 
+ | Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
 
 
 
