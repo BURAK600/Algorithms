@@ -41,7 +41,7 @@ Given this, the analysis exceeds the scope of this course, but it turns out to b
 ---
 # Difference Between  Quicksort and Merge Sort
 
- |**_Basis for comparison_**|**_Quick Sort_**| **_Merge Sort_** |
+ |**Basis for comparison**|**Quick Sort**| **Merge Sort** |
 |----------|:-------------:|------:|
 | **Worst case complexity**| O(n2) | O(nlogn)|
 | **Average case complexity** |  O(nlogn) |  O(nlogn) |
