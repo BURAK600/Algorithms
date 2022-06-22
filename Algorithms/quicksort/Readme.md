@@ -40,8 +40,8 @@ Given this, the analysis exceeds the scope of this course, but it turns out to b
 
 ---
 
-| Basis for comparison| Quick Sort| Merge Sort |
-| —— | —— | —— |
+ | Basis for comparison| Quick Sort| Merge Sort |
+|----------|:-------------:|------:|
 | Worst case complexity| O(n2) | O(nlogn)|
 | Average case complexity |  O(nlogn) |  O(nlogn) |
 |Speed of execution | It work faster than other sorting algorithms for small data set  |It has a consistent speed on any size of data |
@@ -55,18 +55,6 @@ Given this, the analysis exceeds the scope of this course, but it turns out to b
 ---
 
 
- | Başlık1 | Başlık2 | Başlık3 |
- 
- | —— | —— | —— |
- 
- | Satır 1 Sütun 1 | Satır 1 Sütun 2 | Satır 1 Sütun 3 |
- 
- | Satır 2 Sütun 1 | Satır 2 Sütun 2 | Satır 2 Sütun 3 |
- 
- | Satır 3 Sütun 1 | Satır 3 Sütun 2 | Satır 3 Sütun 3 |
- | Satır 4 Sütun 1 | Satır 4 Sütun 2 | Satır 4 Sütun 3 |
- | Satır 5 Sütun 1 | Satır 5 Sütun 2 | Satır 5 Sütun 3 |
- 
  
  
  | Tables   |      Are      |  Cool |
