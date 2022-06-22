@@ -1,10 +1,9 @@
 package quicksort;
-// Java implementation of QuickSort
 import java.io.*;
 
 class QuickSortAlgorithm{
 
-    // A utility function to swap two elements
+    // A function to swap two elements
     static void swap(int[] arr, int i, int j)
     {
         int temp = arr[i];
@@ -12,11 +11,13 @@ class QuickSortAlgorithm{
         arr[j] = temp;
     }
 
-    /* This function takes last element as pivot, places
-       the pivot element at its correct position in sorted
-       array, and places all smaller (smaller than pivot)
-       to left of pivot and all greater elements to right
-       of pivot */
+    /**
+     * This function takes last element as pivot, places
+     * the pivot element at its correct position in sorted
+     * array, and places all smaller (smaller than pivot)
+     * to left of pivot and all greater elements to right
+     * of pivot
+     */
     static int partition(int[] arr, int low, int high)
     {
 
@@ -35,7 +36,6 @@ class QuickSortAlgorithm{
             // than the pivot
             if (arr[j] < pivot)
             {
-
                 // Increment index of
                 // smaller element
                 i++;
@@ -87,4 +87,3 @@ class QuickSortAlgorithm{
         printArray(arr, n);
     }
 }
-
