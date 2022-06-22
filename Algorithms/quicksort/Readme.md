@@ -16,7 +16,7 @@ The key process in quickSort is partition(). Target of partitions is, given an a
 array and put all smaller elements (smaller than x) before x, and put all greater elements (greater than x) after x. All this should be done in linear time.
 
 ## How Merge sort Works?
-![How Merge sort Works?]([[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREFaohMg5k3Gts-UUlQ7tjjXvNGbYvtRM4i9hj_5CJkqMlK0TaDIwv8ADeMu_Ab80DZ4A&usqp=CAU](https://www.techiedelight.com/wp-content/uploads/Quicksort.png]](https://www.techiedelight.com/wp-content/uploads/Quicksort.png))
+![How Merge sort Works?](https://www.techiedelight.com/wp-content/uploads/Quicksort.png)
 
 ---
 
